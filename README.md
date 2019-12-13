@@ -10,3 +10,5 @@ After the inputs pass the validation, the app will present to the user a passwor
 
 At the end the user will have the option to copy the generated password to a clipboard.
 
+Credit:
+    w3schools: How TO - Range Sliders

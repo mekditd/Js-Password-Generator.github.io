@@ -2,6 +2,7 @@
 .container {
     background: rgb(247, 249, 250);
     width: 100%;
+    font-style: normal;
 }
 
 .main {
@@ -12,8 +13,13 @@
 
 }
 
+h2 {
+    border-bottom: 1px solid rgb(192, 187, 187);
+}
+
 textarea {
     width: 100%;
+    border: dashed 1px rgb(138, 133, 133);
 }
 
 #myRange {
@@ -37,3 +43,7 @@ button {
   width: 150px;
 }
 
+
+.red {
+    background: rgb(247, 36, 36);
+}
