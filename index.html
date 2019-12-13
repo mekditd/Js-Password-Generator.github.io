@@ -13,28 +13,37 @@
 </head>
 
 <body>
+    <!-- navbar starts here -->
     <nav class="navbar navbar-dark bg-dark fa-align-justify text-white justify-content-center">
         Random Password Generator
     </nav>
+    <!-- container -->
     <div class="container">
         <div class="row">
+            <!-- Bootstrap responsive col class used here -->
             <div class="col-lg-8 cl-sm-12 mx-auto">
-                <h2>Generate a Password</h2><br>
+                <div class="main">
 
-                <textarea name="" id="" cols="100" rows="5"></textarea><br>
-                <button class="red">Generate Password</button>
-                <button class="white">Copy to Clipboard</button>
+                    <h2>Generate a Password</h2><br>
 
+                    <!-- user input goes in here -->
+                    <textarea name="" id="viewerPoint" cols="100" rows="5" type="range" minlength="8" maxlength="128">
 
+                    </textarea><br>
+
+                    <!-- range slide selector -->
+                    <input type="range" min="8" max="128" value="50" class="slider" id="myRange"><br>
+
+                    <!-- Button to Generate password -->
+                    <button class="red">Generate Password</button>
+
+                    <!-- Button to copy the password -->
+                    <button class="white">Copy to Clipboard</button>
+
+                </div>
             </div>
-
-
-
         </div>
-
-
     </div>
-
 </body>
 
 </html>

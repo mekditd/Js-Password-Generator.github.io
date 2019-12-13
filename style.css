@@ -1,23 +1,31 @@
-/* * {
-  padding: 0;
-  margin: 0;
-  line-height: 1.5;
-}
 
 .container {
-  align-content: center;
-  width: 100%;
+    background: rgb(247, 249, 250);
+    width: 100%;
 }
 
-h2 {
-    text-align: center;
-    align-content: initial;
+.main {
+    margin-top: 50px;
+    width: 100%;
+    padding: 40px;
+    
+
 }
+
+textarea {
+    width: 100%;
+}
+
+#myRange {
+    width: 100%;
+}
+
+
+
 
 
 button {
   cursor: pointer;
-  display: inline-block;
   font-size: 14px;
   font-weight: 400;
   line-height: 1.42857;
@@ -25,30 +33,7 @@ button {
   text-align: center;
   vertical-align: middle;
   white-space: nowrap;
-  border-radius: 12px;
+  border-radius: 16px;
   width: 150px;
 }
 
-.red {
-  background: rgb(168, 14, 14);
-  float: left;
-  margin-left: 200px;
-}
-
-.white {
-  background: rgba(230, 231, 231, 0);
-  float: right;
-  margin-right: 200px;
-}
-
-
-textarea {
-    margin-left: 200px;
-}
-
-@media screen and (max-width: 640px) {
-    h1 {
-
-    }
-
-} */
