@@ -1,0 +1,54 @@
+/* * {
+  padding: 0;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.container {
+  align-content: center;
+  width: 100%;
+}
+
+h2 {
+    text-align: center;
+    align-content: initial;
+}
+
+
+button {
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  border-radius: 12px;
+  width: 150px;
+}
+
+.red {
+  background: rgb(168, 14, 14);
+  float: left;
+  margin-left: 200px;
+}
+
+.white {
+  background: rgba(230, 231, 231, 0);
+  float: right;
+  margin-right: 200px;
+}
+
+
+textarea {
+    margin-left: 200px;
+}
+
+@media screen and (max-width: 640px) {
+    h1 {
+
+    }
+
+} */
