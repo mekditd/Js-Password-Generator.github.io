@@ -1,35 +1,35 @@
 
+/* set the bg & width of the container */
 .container {
-    background: rgb(247, 249, 250);
-    width: 100%;
-    font-style: normal;
+  background: rgb(247, 249, 250);
+  width: 100%;
 }
 
+/* holds the attributes of the main content div */
 .main {
-    margin-top: 50px;
-    width: 100%;
-    padding: 40px;
-    
-
+  margin-top: 50px;
+  width: 100%;
+  padding: 40px;
 }
 
 h2 {
-    border-bottom: 1px solid rgb(192, 187, 187);
+  border-bottom: 1px solid rgb(192, 187, 187);
+  /* text-align: center; */
 }
 
+/* styles the user interface area */
 textarea {
-    width: 100%;
-    border: dashed 1px rgb(138, 133, 133);
+  width: 100%;
+  border: dashed 1px rgb(138, 133, 133);
+  text-align: inherit;
 }
 
+/* style for the range selector */
 #myRange {
-    width: 100%;
+  width: 100%;
 }
 
-
-
-
-
+/* attributes of the buttons */
 button {
   cursor: pointer;
   font-size: 14px;
@@ -43,7 +43,11 @@ button {
   width: 150px;
 }
 
-
 .red {
-    background: rgb(247, 36, 36);
+  background: rgb(247, 36, 36);
+  float: left;
+}
+
+.white {
+  float: right;
 }
