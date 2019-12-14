@@ -2,12 +2,12 @@
 function generate(){
 
     //set password length
-    let length = document.getElementById("myRange").value;
+    var length = document.getElementById("myRange").value;
 
     //password values
-    let values = "ABCDEFGHIJKLMNOPQRSTUVWZYZabcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+";
+    var values = "ABCDEFGHIJKLMNOPQRSTUVWZYZabcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+";
 
-    let password = "";
+    var password = "";
 
     //loop through the password values to choose password characters
     for(var i = 0; i <= length; i++){
