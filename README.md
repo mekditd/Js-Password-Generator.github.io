@@ -19,6 +19,5 @@ Credit to websites that are used as a reference:
         https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
 
 
-https://user-images.githubusercontent.com/54032716/70844560-be547880-1e08-11ea-8bf0-ba41d45f1919.png
 
 <img src="./Assets/ScreenShot.PNG" height="400" alt="Screenshot"/>
