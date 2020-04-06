@@ -12,7 +12,7 @@ At the end the user will have the option to copy the generated password to a cli
 
 Credit to websites that are used as a reference:
 
-        w3schools: How TO - Range Sliders
+        w3ghost: How TO - Range Sliders
 
         https://www.youtube.com/watch?v=duNmhKgtcsI
 
@@ -20,3 +20,5 @@ Credit to websites that are used as a reference:
 
 
 https://user-images.githubusercontent.com/54032716/70844560-be547880-1e08-11ea-8bf0-ba41d45f1919.png
+
+<img src="./Assets/ScreenShot.PNG" height="400" alt="Screenshot"/>

@@ -2,7 +2,9 @@
 /* set the bg & width of the container */
 .container {
   background: rgb(247, 249, 250);
-  width: 100%;
+  /* width: 100%; */
+  margin: 0 auto;
+  max-width: 600px;
 }
 
 /* holds the attributes of the main content div */
