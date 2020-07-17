@@ -12,11 +12,11 @@ At the end the user will have the option to copy the generated password to a cli
 
 Credit to websites that are used as a reference:
 
-       *\ w3ghost: How TO - Range Sliders \*
+       \* w3ghost: How TO - Range Sliders \*
 
-       *\ https://www.youtube.com/watch?v=duNmhKgtcsI \*
+       \* https://www.youtube.com/watch?v=duNmhKgtcsI \*
 
-       *\ https://www.florin-pop.com/blog/2019/09/100-days-100-projects/ \*
+       \* https://www.florin-pop.com/blog/2019/09/100-days-100-projects/ \*
 
 
 
